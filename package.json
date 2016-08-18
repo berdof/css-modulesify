@@ -4,7 +4,7 @@
   "description": "A browserify transform to load CSS Modules",
   "main": "index.js",
   "dependencies": {
-    "css-modules-loader-core": "https://github.com/berdof/css-modules-loader-core.git",
+    "css-modules-loader-core": "git+https://github.com/berdof/css-modules-loader-core.git",
     "dependency-graph": "^0.4.1",
     "object-assign": "^3.0.0",
     "promise-polyfill": "^2.1.0",
