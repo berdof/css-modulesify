@@ -13,7 +13,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { 'd
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError('Cannot call a class as a function'); } }
 
-var _indexJs = require('css-modules-loader-core/lib/index.js');
+var _indexJs = require('css-modules-loader-core-win/lib/index.js');
 
 var _indexJs2 = _interopRequireDefault(_indexJs);
 
